@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mypimarket.com	TRUE	/	FALSE	1999999999	ci_session	ar6f1dnad7k1gm3bv7avn785gdtoalgd
+mypimarket.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

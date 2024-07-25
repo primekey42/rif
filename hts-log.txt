@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 25 Jul 2024 20:40:37 at https://mypimarket.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mypimarket.com/ -O1 "C:\Users\user\Downloads\112_e3155fa6-78ec-4cd3-9187-2a07e5b4c2b3_29.05_wy\refpi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:42:34	Error: 	"Not Found" (404) at link https://mypimarket.com/Product/viewPhoneProduct (from https://mypimarket.com/)
+20:42:36	Error: 	"Not Found" (404) at link https://mypimarket.com/Product/viewProduct (from https://mypimarket.com/)
+20:42:36	Error: 	"Bad Request" (400) at link https://mypimarket.com/support@mypimarket.com (from https://mypimarket.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 21 seconds : 185 links scanned, 181 files written (2300472 bytes overall) [1920645 bytes received at 13621 bytes/sec], 562461 bytes transferred using HTTP compression in 120 files, ratio 22%, 31.0 requests per connection
+(3 errors, 0 warnings, 0 messages)
