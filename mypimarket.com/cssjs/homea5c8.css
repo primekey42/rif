@@ -1,0 +1,68 @@
+.btn::part(base) {
+    background: #994E9C;
+    color: white;
+    border: none;
+    box-shadow: 1px 0px 3px black;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #994E9C;
+}
+
+sl-button::part(base) {
+    border: none;
+}
+
+sl-button::part(base):hover {
+    background: transparent;
+    border: none;
+}
+
+.btn::part(base):hover {
+    background: #c936d1;
+}
+
+
+.bold,
+.bold::part(base) {
+    font-weight: bolder;
+
+}
+
+body {
+    background: #f3f3f3;
+    font-family: "Roboto", sans-serif;
+}
+
+:not(:defined) {
+    visibility: hidden;
+}
+
+.header1 {
+    position: sticky;
+    top: 0px;
+    padding: 1rem 1rem;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    z-index: 10000;
+
+}
+
+.cartCount {
+    background: orange;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: xx-small;
+    padding: 3px 2px;
+    position: absolute;
+    border: 1px solid black;
+    margin-left: 5px;
+    color: white;
+}
